@@ -58,7 +58,3 @@ You can use Postman or any other API testing tool to test the endpoints. Perform
 - Node.js
 - Express
 - MongoDB
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
