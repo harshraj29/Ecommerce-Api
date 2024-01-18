@@ -13,7 +13,7 @@ module.exports.products = function (req, res) {
 };
 
 // Define your controller function
-exports.create = (req, res, next) => {
+exports.create = (req, res) => {
   const product = new Product({
     name: req.body.name,
     description: req.body.description,
